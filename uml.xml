@@ -1,0 +1,12 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="defaultScope" value="Project Files" />
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Usages;Show Cyclic" />
+        <entry id="MODULES" categories="Libraries;Test dependencies" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>

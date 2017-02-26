@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[commons-lang3] - ...\src\main\java\org\apache\commons\lang3\builder\Builder.java'" />
+    <option name="defaultScopeName" value="File '[commons-lang3] - ...\src\main\java\org\apache\commons\lang3\builder\Builder.java'" />
+    <option name="SEARCH_SCOPE" value="File '[commons-lang3] - ...\src\main\java\org\apache\commons\lang3\builder\Builder.java'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>
