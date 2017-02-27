@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recursive" />
+      <item value="abbreviation" />
       <item value="Transient" />
       <item value="isTransient" />
     </histories>
