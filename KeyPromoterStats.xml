@@ -5,6 +5,7 @@
         <entry key="'Alt+Insert'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
+        <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="1" />
         <entry key="'Shift+F10'" value="1" />
       </map>
     </option>
