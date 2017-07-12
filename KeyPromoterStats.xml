@@ -2,11 +2,18 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+Insert'" value="1" />
-        <entry key="'Ctrl+Alt+S'" value="1" />
+        <entry key="'Alt+4'" value="1" />
+        <entry key="'Alt+6'" value="1" />
+        <entry key="'Alt+9'" value="1" />
+        <entry key="'Alt+Delete'" value="1" />
+        <entry key="'Alt+Insert'" value="3" />
+        <entry key="'Alt+Shift+F10'" value="1" />
+        <entry key="'Ctrl+Alt+S'" value="5" />
+        <entry key="'Ctrl+F2'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
         <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="1" />
-        <entry key="'Shift+F10'" value="1" />
+        <entry key="'Shift+F10'" value="2" />
+        <entry key="'Shift+F12'" value="1" />
       </map>
     </option>
   </component>
