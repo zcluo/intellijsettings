@@ -2,5 +2,6 @@
   <component name="GradleSystemSettings">
     <option name="serviceDirectoryPath" value="$USER_HOME$/.gradle" />
     <option name="gradleVmOptions" value="-XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
+    <option name="offlineWork" value="true" />
   </component>
 </application>
